@@ -1,4 +1,4 @@
-# sb-sample-extension
+# All in One Accessibility
 
 ## Developing apps locally using the Smart Builder
 
